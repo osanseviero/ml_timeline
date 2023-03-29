@@ -12,6 +12,7 @@
 * 26: Japanese Alpaca LoRA ([tweet](https://twitter.com/kun1em0n/status/1639965140429963264), [demo](https://huggingface.co/spaces/kunishou/Japanese-Alpaca-LoRA-7b-DEMO), [report](https://note.com/kun1emon/n/n1533345d5d26))
 * 26: LLaMA voice chat ([tweet](https://twitter.com/ggerganov/status/1640022482307502085))
 * 24: Text2Video-Zero ([tweet](https://twitter.com/_akhaliq/status/1639062868850266112), [code](https://github.com/Picsart-AI-Research/Text2Video-Zero))
+* 24: Dolly ([tweet](https://twitter.com/databricks/status/1639239800145465344), [code](https://github.com/databrickslabs/dolly))
 * 22: Alpaca LoRA as a chatbot ([tweet](https://twitter.com/algo_diver/status/1638525828773576704), [code](https://github.com/deep-diver/Alpaca-LoRA-Serve)).
 * 20: Runway Gen-2 ([tweet](https://twitter.com/runwayml/status/1637800500459458562))
 * 24: SwissBERT ([tweet](https://twitter.com/j_vamvas/status/1639192870828556290), [blog](https://vamvas.ch/introducing-swissbert))
