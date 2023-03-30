@@ -3,6 +3,7 @@
 ## March 2023
 
 * 30: ColossalChat ([blog](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b), [code](https://github.com/hpcaitech/ColossalAI))
+* 29: Spanish BERTIN GPT-J-6B Alpaca and Alpaca LoRA ([tweet](https://twitter.com/versae/status/1641124547414900736))
 * 29: LLaMA Adapter ([tweet](https://twitter.com/lupantech/status/1640899600281395200), [code](https://github.com/ZrrSkywalker/LLaMA-Adapter), [paper](https://huggingface.co/papers/2303.16199))
 * 28: PRESTO dataset ([github](https://github.com/google-research-datasets/presto))
 * 28: OpenFlamingo ([tweet](https://twitter.com/anas_awadalla/status/1640766789977251840), [blog](https://laion.ai/blog/open-flamingo/))
