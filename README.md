@@ -1,8 +1,9 @@
 # ML News
 
 ## March 2023
-
+* 30: Nucleotide Transformer, SOTA Genomics ([tweet](https://twitter.com/instadeepai/status/1641075963051012097), [code](https://github.com/instadeepai/nucleotide-transformer))
 * 30: ColossalChat ([blog](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b), [code](https://github.com/hpcaitech/ColossalAI))
+* 29: GeoV-9b ([tweet](https://twitter.com/labmlai/status/1641357802009395201), [code](https://github.com/geov-ai/geov), [weights](https://huggingface.co/GeoV/GeoV-9b), [colab](https://colab.research.google.com/github/geov-ai/geov/blob/master/notebooks/generate.ipynb))
 * 29: Spanish BERTIN GPT-J-6B Alpaca and Alpaca LoRA ([tweet](https://twitter.com/versae/status/1641124547414900736))
 * 29: LLaMA Adapter ([tweet](https://twitter.com/lupantech/status/1640899600281395200), [code](https://github.com/ZrrSkywalker/LLaMA-Adapter), [paper](https://huggingface.co/papers/2303.16199))
 * 28: PRESTO dataset ([github](https://github.com/google-research-datasets/presto))
