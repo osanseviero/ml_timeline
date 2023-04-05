@@ -1,5 +1,15 @@
 # ML News
 
+## April 2023
+* 4: LangChain announced their $10M seed round ([tweet](https://twitter.com/hwchase17/status/1643301144717066240))
+* 4: Kandinsky 2.1 ([tweet](https://twitter.com/_akhaliq/status/1643191350672646144))
+* 4: IGEL, an instruction-uned German LLM ([tweet](https://twitter.com/_philschmid/status/1643278444992626689))
+* 4: Koala-13B: A Dialogue Model for Academic Research ([tweet](https://twitter.com/AlphaSignalAI/status/1643306708716904461), [blog](https://bair.berkeley.edu/blog/2023/04/03/koala/))
+* 4: Baize: An Open-Source chat model with PEFT ([tweet](https://twitter.com/arankomatsuzaki/status/1643054506148614146))
+* 3: Vicuna-13B weights are released ([tweet](https://twitter.com/lmsysorg/status/1642968294998306816))
+* 3: A Survey of Large Language Models ([tweet](https://twitter.com/arankomatsuzaki/status/1642686213147738112))
+
+
 ## March 2023
 * 30: BloombergGPT: A Large Language Model for Finance ([tweet](https://twitter.com/TechAtBloomberg/status/1641772329658114053), [paper](https://arxiv.org/abs/2303.17564))
 * 30: Nucleotide Transformer, SOTA Genomics ([tweet](https://twitter.com/instadeepai/status/1641075963051012097), [code](https://github.com/instadeepai/nucleotide-transformer))
