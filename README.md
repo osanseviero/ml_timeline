@@ -1,6 +1,16 @@
 # ML News
 
 ## April 2023
+* 7: SegGPT: Segmenting Everything in context ([tweet](https://twitter.com/_akhaliq/status/1644147931178496001))
+* 6: StackLlama ([tweet](https://twitter.com/lvwerra/status/1643998302738759683))
+* 6: VideoCrafter: text to video model ([tweet](https://twitter.com/TomLikesRobots/status/1643878218498207744))
+* 6: Generative Novel View synthesis ([tweet](https://twitter.com/_akhaliq/status/1643790003779059715))
+* 5: SAM - Segment anything ([tweet](https://twitter.com/MetaAI/status/1643599800414380038))
+* 5: ChatArena, multi-agent game environments for LLMs ([tweet](https://twitter.com/mindjimmy/status/1643633046208249856))
+* 5: Kandinsky 2.1 for image generation ([tweet](https://twitter.com/nearcyan/status/1643421466795417600))
+* 5: LLaMA-Adapter ([tweet](https://twitter.com/lupantech/status/1643385891338227712))
+* 5: LatentVideo Diffusion Models for long video generation ([tweet](https://twitter.com/_akhaliq/status/1643627527594815488))
+* 4: MolFeat, a hub of molecular featurizers ([tweet](https://twitter.com/datamol_io/status/1643263399915311104))
 * 4: LangChain announced their $10M seed round ([tweet](https://twitter.com/hwchase17/status/1643301144717066240))
 * 4: Kandinsky 2.1 ([tweet](https://twitter.com/_akhaliq/status/1643191350672646144))
 * 4: IGEL, an instruction-uned German LLM ([tweet](https://twitter.com/_philschmid/status/1643278444992626689))
