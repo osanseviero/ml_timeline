@@ -2,6 +2,7 @@
 
 ## April 2023
 * 7: SegGPT: Segmenting Everything in context ([tweet](https://twitter.com/_akhaliq/status/1644147931178496001))
+* 6: Vicuna-7B weights are released ([tweet](https://twitter.com/lmsysorg/status/1644060638472470528))
 * 6: StackLlama ([tweet](https://twitter.com/lvwerra/status/1643998302738759683))
 * 6: VideoCrafter: text to video model ([tweet](https://twitter.com/TomLikesRobots/status/1643878218498207744))
 * 6: Generative Novel View synthesis ([tweet](https://twitter.com/_akhaliq/status/1643790003779059715))
