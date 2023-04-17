@@ -1,6 +1,8 @@
 # ML News
 
 ## April 2023
+* 16: CAMEL: Physics, Chemistry and Biology datasets ([tweet](https://twitter.com/hammh0a/status/1647415963644760064))
+* 15: ControlNet 1.1 ([tweet](https://twitter.com/huggingface/status/1647017924459126784))
 * 7: SegGPT: Segmenting Everything in context ([tweet](https://twitter.com/_akhaliq/status/1644147931178496001))
 * 6: Vicuna-7B weights are released ([tweet](https://twitter.com/lmsysorg/status/1644060638472470528))
 * 6: StackLlama ([tweet](https://twitter.com/lvwerra/status/1643998302738759683))
