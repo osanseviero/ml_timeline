@@ -1,6 +1,7 @@
 # ML News
 
 ## April 2023
+* 25: NeMo Guardrails (NVIDIA), ([blog](https://blogs.nvidia.com/blog/2023/04/25/ai-chatbot-guardrails-nemo/), [code](https://github.com/NVIDIA/NeMo-Guardrails))
 * 16: CAMEL: Physics, Chemistry and Biology datasets ([tweet](https://twitter.com/hammh0a/status/1647415963644760064))
 * 15: ControlNet 1.1 ([tweet](https://twitter.com/huggingface/status/1647017924459126784))
 * 7: SegGPT: Segmenting Everything in context ([tweet](https://twitter.com/_akhaliq/status/1644147931178496001))
