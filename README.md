@@ -9,6 +9,7 @@
 * 20: Run Whisper 70x faster with JAX and TPU ([tweet](https://twitter.com/sanchitgandhi99/status/1649046650793648128))
 * 19: StableLM ([tweet](https://twitter.com/StabilityAI/status/1648706156330876928))
 * 16: CAMEL: Physics, Chemistry and Biology datasets ([tweet](https://twitter.com/hammh0a/status/1647415963644760064))
+* 15: Open Assistant ([tweet](https://twitter.com/ykilcher/status/1647283816384405505), [website](https://open-assistant.io/))
 * 15: ControlNet 1.1 ([tweet](https://twitter.com/huggingface/status/1647017924459126784))
 * 7: SegGPT: Segmenting Everything in context ([tweet](https://twitter.com/_akhaliq/status/1644147931178496001))
 * 6: Vicuna-7B weights are released ([tweet](https://twitter.com/lmsysorg/status/1644060638472470528))
