@@ -1,7 +1,13 @@
 # ML News
 
 ## April 2023
+* 25: HuggingChat ([tweet](https://twitter.com/ClementDelangue/status/1650908484936908808), [UI](https://huggingface.co/chat/))
+* 25: MOSS, a 16B tool-augmented language model ([tweet](https://twitter.com/tianxiangsun/status/1650895260493705216), [code](https://github.com/OpenLMLab/MOSS/blob/main/README_en.md))
 * 25: NeMo Guardrails (NVIDIA), ([blog](https://blogs.nvidia.com/blog/2023/04/25/ai-chatbot-guardrails-nemo/), [code](https://github.com/NVIDIA/NeMo-Guardrails))
+* 25: Track Anything: Segment Anything Meets Videos ([tweet](https://twitter.com/arankomatsuzaki/status/1650668065128865794))
+* 24: Scaling Transformer to 1M tokens ([tweet](https://twitter.com/_akhaliq/status/1650308865555148800), [code](https://github.com/booydar/t5-experiments/tree/scaling-report))
+* 20: Run Whisper 70x faster with JAX and TPU ([tweet](https://twitter.com/sanchitgandhi99/status/1649046650793648128))
+* 19: StableLM ([tweet](https://twitter.com/StabilityAI/status/1648706156330876928))
 * 16: CAMEL: Physics, Chemistry and Biology datasets ([tweet](https://twitter.com/hammh0a/status/1647415963644760064))
 * 15: ControlNet 1.1 ([tweet](https://twitter.com/huggingface/status/1647017924459126784))
 * 7: SegGPT: Segmenting Everything in context ([tweet](https://twitter.com/_akhaliq/status/1644147931178496001))
