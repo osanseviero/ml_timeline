@@ -1,5 +1,10 @@
 # ML News
 
+## May 2023
+* 5: OpenLLaMA: An Open Reproduction of LLaMA ([tweet](https://twitter.com/yixuan_su/status/1654234602003636226), [code](https://github.com/openlm-research/open_llama), [model](https://huggingface.co/openlm-research/open_llama_7b_preview_200bt))
+* 4: StarCoder, A State-of-the-Art LLM for Code ([tweet](https://twitter.com/BigCodeProject/status/1654174941976068119), [blog](https://huggingface.co/blog/starcoder), [code](https://github.com/bigcode-project/starcoder/tree/main), [model](https://huggingface.co/bigcode/starcoder))
+* 3: Pi, Personal Intelligence ([tweet](https://twitter.com/inflectionAI/status/1653475948036259840), [demo](https://heypi.com/talk))
+
 ## April 2023
 * 28: StableVicuna, RLHF LLM Chatbot ([tweet](https://twitter.com/StabilityAI/status/1652026192193785856), [blog](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot))
 * 28: FastChat-T5: Compact, commercial-friendly chatbot ([tweet](https://twitter.com/lmsysorg/status/1652037026705985537), [code](https://github.com/lm-sys/FastChat#FastChat-T5))
