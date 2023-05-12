@@ -1,7 +1,9 @@
 # ML News
 
 ## May 2023
-* 9: StarChat: Creating a Coding Assistant with StarCoder, ([tweet](https://twitter.com/_philschmid/status/1655972006616002560), [blog](https://huggingface.co/blog/starchat-alpha), [demo](https://huggingface.co/spaces/HuggingFaceH4/starchat-playground))
+* 12: Spacy-llm, Integrating LLMs into structured NLP pipelines, Explosion ([tweet](https://twitter.com/spacy_io/status/1656734286425255937), [code](https://github.com/explosion/spacy-llm))
+* 10: PaLM 2, Google ([blog](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/))
+* 9: StarChat: Creating a Coding Assistant with StarCoder ([tweet](https://twitter.com/_philschmid/status/1655972006616002560), [blog](https://huggingface.co/blog/starchat-alpha), [demo](https://huggingface.co/spaces/HuggingFaceH4/starchat-playground))
 * 5: OpenLLaMA: An Open Reproduction of LLaMA ([tweet](https://twitter.com/yixuan_su/status/1654234602003636226), [code](https://github.com/openlm-research/open_llama), [model](https://huggingface.co/openlm-research/open_llama_7b_preview_200bt))
 * 4: StarCoder, A State-of-the-Art LLM for Code ([tweet](https://twitter.com/BigCodeProject/status/1654174941976068119), [blog](https://huggingface.co/blog/starcoder), [code](https://github.com/bigcode-project/starcoder/tree/main), [model](https://huggingface.co/bigcode/starcoder))
 * 3: Pi, Personal Intelligence ([tweet](https://twitter.com/inflectionAI/status/1653475948036259840), [demo](https://heypi.com/talk))
@@ -63,3 +65,4 @@
 * 24: SwissBERT ([tweet](https://twitter.com/j_vamvas/status/1639192870828556290), [blog](https://vamvas.ch/introducing-swissbert))
 * 17: Alpacoom: BLOOM fine-tuned on Alpaca's dataset using LoRA ([tweet](https://twitter.com/mrm8488/status/1636742703055527937?s=20), [model](https://huggingface.co/mrm8488/Alpacoom))
 * 16: Alpaca LoRA: instruct tune LLAMA on consumer hardware ([tweet](https://twitter.com/_akhaliq/status/1636416647518097408), [code](https://github.com/tloen/alpaca-lora))
+* 14: Claude, Anthropic ([blog](https://www.anthropic.com/index/introducing-claude))
