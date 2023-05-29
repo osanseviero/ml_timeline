@@ -1,7 +1,12 @@
 # ML News
 
 ## May 2023
+* 25: BLIP-Diffusion: Image generation modelwith zero-shot editing, style transfer and more ([tweet](https://twitter.com/LiJunnan0409/status/1661537224947810304), [paper](https://hf.co/papers/2305.14720))
+* 24: QLoRA: 4-bit finetuning ([tweet](https://twitter.com/Tim_Dettmers/status/1661379354507476994), [paper](https://huggingface.co/papers/2305.14314), [demo](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi))
+* 22: BigCode Evaluation harness for code LLMs ([tweet](https://twitter.com/BigCodeProject/status/1660666509746917376))
+* 16: PEFT Whisper ([tweet](https://twitter.com/reach_vb/status/1658463732606070785), [code](https://github.com/Vaibhavs10/fast-whisper-finetuning))
 * 12: Spacy-llm, Integrating LLMs into structured NLP pipelines, Explosion ([tweet](https://twitter.com/spacy_io/status/1656734286425255937), [code](https://github.com/explosion/spacy-llm))
+* 11: ProteinGeneration: diffusion in prpotein sequence space ([tweet](https://twitter.com/sid_thesci_kid/status/1656695039266013185), [paper](https://www.biorxiv.org/content/10.1101/2023.05.08.539766v1))
 * 10: PaLM 2, Google ([blog](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/))
 * 9: StarChat: Creating a Coding Assistant with StarCoder ([tweet](https://twitter.com/_philschmid/status/1655972006616002560), [blog](https://huggingface.co/blog/starchat-alpha), [demo](https://huggingface.co/spaces/HuggingFaceH4/starchat-playground))
 * 5: OpenLLaMA: An Open Reproduction of LLaMA ([tweet](https://twitter.com/yixuan_su/status/1654234602003636226), [code](https://github.com/openlm-research/open_llama), [model](https://huggingface.co/openlm-research/open_llama_7b_preview_200bt))
