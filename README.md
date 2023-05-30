@@ -71,4 +71,5 @@
 * 24: SwissBERT ([tweet](https://twitter.com/j_vamvas/status/1639192870828556290), [blog](https://vamvas.ch/introducing-swissbert))
 * 17: Alpacoom: BLOOM fine-tuned on Alpaca's dataset using LoRA ([tweet](https://twitter.com/mrm8488/status/1636742703055527937?s=20), [model](https://huggingface.co/mrm8488/Alpacoom))
 * 16: Alpaca LoRA: instruct tune LLAMA on consumer hardware ([tweet](https://twitter.com/_akhaliq/status/1636416647518097408), [code](https://github.com/tloen/alpaca-lora))
-* 14: Claude, Anthropic ([blog](https://www.anthropic.com/index/introducing-claude)), ChatGLM-6B ([code](https://github.com/THUDM/ChatGLM-6B), [model](https://huggingface.co/THUDM/chatglm-6b))
+* 14: Claude, Anthropic ([blog](https://www.anthropic.com/index/introducing-claude))
+* 14: ChatGLM-6B ([code](https://github.com/THUDM/ChatGLM-6B), [model](https://huggingface.co/THUDM/chatglm-6b))
