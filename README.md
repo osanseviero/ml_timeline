@@ -17,7 +17,7 @@
 ## April 2023
 * 28: StableVicuna, RLHF LLM Chatbot ([tweet](https://twitter.com/StabilityAI/status/1652026192193785856), [blog](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot))
 * 28: FastChat-T5: Compact, commercial-friendly chatbot ([tweet](https://twitter.com/lmsysorg/status/1652037026705985537), [code](https://github.com/lm-sys/FastChat#FastChat-T5))
-* 28: DeepFloyd IF: State of the art text-to-image model that can also generate text ([text](https://twitter.com/deepfloydai/status/1651983493717532673), [demp](https://huggingface.co/spaces/DeepFloyd/IF))
+* 28: DeepFloyd IF: State of the art text-to-image model that can also generate text ([text](https://twitter.com/deepfloydai/status/1651983493717532673), [demo](https://huggingface.co/spaces/DeepFloyd/IF))
 * 25: HuggingChat ([tweet](https://twitter.com/ClementDelangue/status/1650908484936908808), [UI](https://huggingface.co/chat/))
 * 25: MOSS, a 16B tool-augmented language model ([tweet](https://twitter.com/tianxiangsun/status/1650895260493705216), [code](https://github.com/OpenLMLab/MOSS/blob/main/README_en.md))
 * 25: NeMo Guardrails (NVIDIA), ([blog](https://blogs.nvidia.com/blog/2023/04/25/ai-chatbot-guardrails-nemo/), [code](https://github.com/NVIDIA/NeMo-Guardrails))
